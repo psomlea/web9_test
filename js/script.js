@@ -7,5 +7,6 @@ function Comment(properties) {
     Comment.prototype.SaveComment = function(commentData){
     console.log(commentData);
 };
-
+// comment gen pentru GIT
+// second commet for GIT
 
